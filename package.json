@@ -6,7 +6,20 @@
   "scripts": {
     "test": "node test/bleh"
   },
-  "author": "Dallin Osmun",
+  "author": {
+    "name": "Dallin Osmun",
+    "email": "dosmun@gmail.com",
+    "url": "http://github.com/numso"
+  },
+  "homepage": "https://github.com/KualiCo/config-from-env",
+  "bugs": {
+    "url": "https://github.com/KualiCo/config-from-env/issues",
+    "email": "dosmun@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KualiCo/config-from-env.git"
+  },
   "license": "MIT",
   "dependencies": {
     "lodash": "^2.4.1"
