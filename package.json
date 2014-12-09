@@ -1,7 +1,7 @@
 {
-  "name": "env-config",
+  "name": "config-from-env",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple lib to load environment vars into your config",
   "main": "index.js",
   "scripts": {
     "test": "node test/bleh"
