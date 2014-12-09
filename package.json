@@ -1,0 +1,14 @@
+{
+  "name": "env-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/bleh"
+  },
+  "author": "Dallin Osmun",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
+}
